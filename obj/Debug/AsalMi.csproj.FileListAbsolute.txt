@@ -5,3 +5,10 @@ C:\Users\İmi Pc\Desktop\AsalMi\obj\Debug\AsalMi.csproj.AssemblyReference.cache
 C:\Users\İmi Pc\Desktop\AsalMi\obj\Debug\AsalMi.csproj.CoreCompileInputs.cache
 C:\Users\İmi Pc\Desktop\AsalMi\obj\Debug\CSharpDemos.exe
 C:\Users\İmi Pc\Desktop\AsalMi\obj\Debug\CSharpDemos.pdb
+C:\Users\İmi Pc\Desktop\GitHub\AsalMi\bin\Debug\CSharpDemos.exe.config
+C:\Users\İmi Pc\Desktop\GitHub\AsalMi\bin\Debug\CSharpDemos.exe
+C:\Users\İmi Pc\Desktop\GitHub\AsalMi\bin\Debug\CSharpDemos.pdb
+C:\Users\İmi Pc\Desktop\GitHub\AsalMi\obj\Debug\AsalMi.csproj.AssemblyReference.cache
+C:\Users\İmi Pc\Desktop\GitHub\AsalMi\obj\Debug\AsalMi.csproj.CoreCompileInputs.cache
+C:\Users\İmi Pc\Desktop\GitHub\AsalMi\obj\Debug\CSharpDemos.exe
+C:\Users\İmi Pc\Desktop\GitHub\AsalMi\obj\Debug\CSharpDemos.pdb

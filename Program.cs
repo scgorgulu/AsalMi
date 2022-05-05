@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 
-namespace CSharpDemos
+namespace AsalMi
 {
 
     class Program
@@ -14,7 +14,7 @@ namespace CSharpDemos
 
         static void Main(string[] args)
         {
-            Console.WriteLine("Merhaba konsoldan girilen bir degerin asal olup olmadıgı bilgisini paylasabilen bir programım.\n" +
+            Console.WriteLine("Merhaba konsoldan girilen bir degerin asal olup olmadıgı bilgisini paylasabilirim\n" +
                 "Bunu yapmamı ister misin? e veya h");
             while (true)
             {
